@@ -1,5 +1,5 @@
 
-name: deploy vue
+name: deploy prod branch file
 on:
   push:
     branches:
